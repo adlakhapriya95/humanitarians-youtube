@@ -59,7 +59,7 @@ In the upcoming renewal period, the objective is to evolve the pipeline from a s
 
 ## 3. Hours and Weekly Coverage
 
-Total Hours Logged: **112.0 Hours** across six documented weeks through the current appointment (exceeding the mandatory 20.0 hrs/week commitment).
+Total Hours Logged: **132.0 Hours** across seven documented weeks through the current appointment (exceeding the mandatory 20.0 hrs/week commitment).
 
 | Week | Date Range | Hours Logged | Focus Area | Evidence Link |
 | :---: | :---: | :---: | :--- | :---: |
@@ -69,6 +69,7 @@ Total Hours Logged: **112.0 Hours** across six documented weeks through the curr
 | **Week 4** | Oct 03 – Oct 07 | 20.0 hrs | Full 60K Salesforce xLAM Laya training on Colab T4 | [`logs/2026-10-03-to-10-07.md`](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/logs/2026-10-03-to-10-07.md) |
 | **Week 5** | Oct 12 – Oct 16 | 20.0 hrs | Multi-model Kaggle Dual T4 benchmarking (Von, Decision 1.0) | [`logs/2026-10-12-to-10-16.md`](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/logs/2026-10-12-to-10-16.md) |
 | **Week 6** | Oct 19 – Oct 23 | 20.0 hrs | Master capstone, post-hoc calibration, Substack article publication | [`logs/2026-10-19-to-10-23.md`](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/logs/2026-10-19-to-10-23.md) |
+| **Week 7** | Oct 26 – Oct 30 | 20.0 hrs | Month 2 Physical AI launch, Research Frontiers 12-vertical review, VLA stealth steering & consistency shield experimental plan | [`logs/2026-10-26-to-10-30.md`](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/logs/2026-10-26-to-10-30.md) |
 
 ---
 

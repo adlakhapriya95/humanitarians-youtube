@@ -45,9 +45,13 @@ Consolidated evaluation across all **4 decision model families** and **6 benchma
 
 ---
 
-## 📅 Fellowship Submissions Directory (All 5 Weeks — 92.0 Logged Hours)
+## 📅 Fellowship Submissions Directory (All 7 Weeks — 132.0 Logged Hours)
 
-1. **[`2026-10-23-final-capstone-and-substack-publication/`](2026-10-23-final-capstone-and-substack-publication/)** (Week 6 — 20.0 Hours)  
+1. **[`2026-10-30-vla-physical-ai-kickoff/`](2026-10-30-vla-physical-ai-kickoff/)** (Week 7 — 20.0 Hours)  
+   *Milestone:* Month 2 Physical AI safety launch, comprehensive Research Frontiers 12-vertical review, OpenVLA-7B and LIBERO testbed setup, formalization of Hypotheses 1 & 2 (Attention Magnet vs. Auto-Feature Copy patch and Spatial Consistency Shield), 5 core de-risking protocols, executed fellowship renewal agreement, and dedicated private research repository.  
+   *Evidence:* [Week 7 Video Update](https://github.com/adlakhapriya95/humanitarians-ai-volunteer/blob/main/videos/VLA_StealthSteering_PriyaA_Week7.mp4) • [`README.md`](2026-10-30-vla-physical-ai-kickoff/README.md) • [`video_script.md`](2026-10-30-vla-physical-ai-kickoff/video_script.md) • [`RESEARCH_FRONTIERS_VERTICALS_REVIEW.md`](2026-10-30-vla-physical-ai-kickoff/RESEARCH_FRONTIERS_VERTICALS_REVIEW.md) • [`experiment_plan.md`](2026-10-30-vla-physical-ai-kickoff/experiment_plan.md) • [`weekly_execution_plan.md`](2026-10-30-vla-physical-ai-kickoff/weekly_execution_plan.md)
+
+2. **[`2026-10-23-final-capstone-and-substack-publication/`](2026-10-23-final-capstone-and-substack-publication/)** (Week 6 — 20.0 Hours)  
    *Milestone:* Master capstone milestone, post-training miscalibration diagnosis (Cross-Entropy logit pushing), post-hoc calibration engine (`rlcd/run_post_hoc_calibration.py`) rescuing subjective tasks to sub-5% ECE, model/data agnosticism verification, autonomous agent skill (`skills/rlcd-fine-tune/SKILL.md`), and comprehensive technical publication live on Substack.  
    *Evidence:* [Live Substack Publication](https://priya413.substack.com/p/your-model-got-more-accurate-after) • [`README.md`](2026-10-23-final-capstone-and-substack-publication/README.md) • [`video_script.md`](2026-10-23-final-capstone-and-substack-publication/video_script.md)
 
